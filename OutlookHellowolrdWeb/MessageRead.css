@@ -1,0 +1,8 @@
+﻿/*ページ固有のスタイル */
+body {
+    background-color: #ffffff;
+}
+
+.padding {
+    padding: 15px;
+}

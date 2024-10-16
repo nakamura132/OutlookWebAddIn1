@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookWebAddIn1", "OutlookWebAddIn1\OutlookWebAddIn1.csproj", "{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookWebAddIn1Web", "OutlookWebAddIn1Web\OutlookWebAddIn1Web.csproj", "{C379EE84-A457-4E00-8228-594EB66F5BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookHellowolrd", "OutlookHellowolrd\OutlookHellowolrd.csproj", "{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OutlookHellowolrdAddin", "OutlookHellowolrdAddin\", "{29C2FBC8-E7C0-42FE-8F22-B8F0946315CA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64747"
+		Debug.AspNetCompiler.PhysicalPath = "OutlookHellowolrdAddin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64747\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64747"
+		Release.AspNetCompiler.PhysicalPath = "OutlookHellowolrdAddin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64747\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64747"
+		SlnRelativePath = "OutlookHellowolrdAddin\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DEE160-A51E-4D60-B1BF-3EECC833DE86}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C379EE84-A457-4E00-8228-594EB66F5BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C379EE84-A457-4E00-8228-594EB66F5BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C379EE84-A457-4E00-8228-594EB66F5BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C379EE84-A457-4E00-8228-594EB66F5BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBF2D25-7E7E-4EC5-AE76-D977FD157B92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{29C2FBC8-E7C0-42FE-8F22-B8F0946315CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C2FBC8-E7C0-42FE-8F22-B8F0946315CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C2FBC8-E7C0-42FE-8F22-B8F0946315CA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C2FBC8-E7C0-42FE-8F22-B8F0946315CA}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97ADD207-5B0C-4563-80ED-BDE089543BC8}
+	EndGlobalSection
+EndGlobal
